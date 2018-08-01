@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['sendscatterprevrow',['sendScatterPrevRow',['../d5/d5b/namespaceopen__mpi__parallelization__n.html#a4ac4cadd8c30088ea1eebd0f5dbc5030',1,'open_mpi_parallelization_n']]],
+  ['sequential',['SEQUENTIAL',['../dd/d28/strategy__type_8h.html#ae1d386cab168df6532c73599c1e0684aa39403cd282d944abcd4f14996cb71bcb',1,'strategy_type.h']]],
+  ['sequential_5fstrategy_2ecpp',['sequential_strategy.cpp',['../de/d7f/sequential__strategy_8cpp.html',1,'']]],
+  ['sequential_5fstrategy_2eh',['sequential_strategy.h',['../d9/d0c/sequential__strategy_8h.html',1,'']]],
+  ['sequentialstrategy',['SequentialStrategy',['../de/d44/classSequentialStrategy.html',1,'SequentialStrategy'],['../de/d44/classSequentialStrategy.html#a2577848bea3defe31f8621e42c3cb27e',1,'SequentialStrategy::SequentialStrategy()']]],
+  ['start',['START',['../dd/d28/strategy__type_8h.html#ae1d386cab168df6532c73599c1e0684aab078ffd28db767c502ac367053f6e0ac',1,'strategy_type.h']]],
+  ['std_5fthread',['STD_THREAD',['../dd/d28/strategy__type_8h.html#ae1d386cab168df6532c73599c1e0684aac458f450b18ba825ca5ba9fc38297b73',1,'strategy_type.h']]],
+  ['std_5fthread_5fbarrier_2ecpp',['std_thread_barrier.cpp',['../d7/d5b/std__thread__barrier_8cpp.html',1,'']]],
+  ['std_5fthread_5fbarrier_2eh',['std_thread_barrier.h',['../d3/d0d/std__thread__barrier_8h.html',1,'']]],
+  ['std_5fthreads_5fstrategy_2ecpp',['std_threads_strategy.cpp',['../da/d8e/std__threads__strategy_8cpp.html',1,'']]],
+  ['std_5fthreads_5fstrategy_2eh',['std_threads_strategy.h',['../db/da9/std__threads__strategy_8h.html',1,'']]],
+  ['stdthreadbarrier',['StdThreadBarrier',['../dd/d51/classStdThreadBarrier.html',1,'StdThreadBarrier'],['../dd/d51/classStdThreadBarrier.html#a7e7f0b3e7f19eafeb0d6f1b7dc137cc2',1,'StdThreadBarrier::StdThreadBarrier()']]],
+  ['stdthreadsstrategy',['StdThreadsStrategy',['../d0/d02/classStdThreadsStrategy.html',1,'StdThreadsStrategy'],['../d0/d02/classStdThreadsStrategy.html#af1214e133cbe87db8b01a4cbceed7ab8',1,'StdThreadsStrategy::StdThreadsStrategy()']]],
+  ['strategy_5fbase_2ecpp',['strategy_base.cpp',['../d0/dc5/strategy__base_8cpp.html',1,'']]],
+  ['strategy_5fbase_2eh',['strategy_base.h',['../d1/d96/strategy__base_8h.html',1,'']]],
+  ['strategy_5fcontext_2ecpp',['strategy_context.cpp',['../db/ddd/strategy__context_8cpp.html',1,'']]],
+  ['strategy_5fcontext_2eh',['strategy_context.h',['../d4/d8c/strategy__context_8h.html',1,'']]],
+  ['strategy_5ffactory_2ecpp',['strategy_factory.cpp',['../df/d3d/strategy__factory_8cpp.html',1,'']]],
+  ['strategy_5ffactory_2eh',['strategy_factory.h',['../dc/dd5/strategy__factory_8h.html',1,'']]],
+  ['strategy_5fn',['strategy_n',['../dd/d7f/namespacestrategy__n.html',1,'']]],
+  ['strategy_5ftype',['STRATEGY_TYPE',['../dd/d28/strategy__type_8h.html#ae1d386cab168df6532c73599c1e0684a',1,'strategy_type.h']]],
+  ['strategy_5ftype_2eh',['strategy_type.h',['../dd/d28/strategy__type_8h.html',1,'']]],
+  ['strategybase',['StrategyBase',['../d5/dc3/classStrategyBase.html',1,'StrategyBase'],['../d5/dc3/classStrategyBase.html#a2ab3046ff53519e2208fa13a99a7fde8',1,'StrategyBase::StrategyBase()']]],
+  ['strategycontext',['StrategyContext',['../d8/d5c/classStrategyContext.html',1,'StrategyContext'],['../d8/d5c/classStrategyContext.html#a138f9e33a634cc7ace7c7418ba2b5be7',1,'StrategyContext::StrategyContext()']]]
+];

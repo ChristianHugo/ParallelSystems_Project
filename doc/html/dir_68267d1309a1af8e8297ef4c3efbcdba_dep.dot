@@ -1,0 +1,20 @@
+digraph "src" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_68267d1309a1af8e8297ef4c3efbcdba {
+    graph [ bgcolor="#eeeeff", pencolor="black", label="" URL="dir_68267d1309a1af8e8297ef4c3efbcdba.html"];
+    dir_68267d1309a1af8e8297ef4c3efbcdba [shape=plaintext label="src"];
+    dir_1e869ebbc6cce176ee0dbb76743ac339 [shape=box label="cfg" color="black" fillcolor="white" style="filled" URL="dir_1e869ebbc6cce176ee0dbb76743ac339.html"];
+    dir_99d0482cf009f9d97a0877749b817f19 [shape=box label="gui" color="black" fillcolor="white" style="filled" URL="dir_99d0482cf009f9d97a0877749b817f19.html"];
+    dir_06067df1f9101ead14b367185ddcf158 [shape=box label="open_mpi" color="black" fillcolor="white" style="filled" URL="dir_06067df1f9101ead14b367185ddcf158.html"];
+    dir_d114d0e199ae1f1639dc065e642916f0 [shape=box label="parallelization" color="red" fillcolor="white" style="filled" URL="dir_d114d0e199ae1f1639dc065e642916f0.html"];
+    dir_0a512cdfab597aff87e92947a97cc98a [shape=box label="processing" color="black" fillcolor="white" style="filled" URL="dir_0a512cdfab597aff87e92947a97cc98a.html"];
+  }
+  dir_d44c64559bbebec7f509842c48db8b23 [shape=box label="include" fillcolor="white" style="filled" color="red" URL="dir_d44c64559bbebec7f509842c48db8b23.html"];
+  dir_0a512cdfab597aff87e92947a97cc98a->dir_d44c64559bbebec7f509842c48db8b23 [headlabel="3", labeldistance=1.5 headhref="dir_000018_000000.html"];
+  dir_1e869ebbc6cce176ee0dbb76743ac339->dir_d44c64559bbebec7f509842c48db8b23 [headlabel="4", labeldistance=1.5 headhref="dir_000010_000000.html"];
+  dir_d114d0e199ae1f1639dc065e642916f0->dir_d44c64559bbebec7f509842c48db8b23 [headlabel="27", labeldistance=1.5 headhref="dir_000013_000000.html"];
+  dir_99d0482cf009f9d97a0877749b817f19->dir_d44c64559bbebec7f509842c48db8b23 [headlabel="1", labeldistance=1.5 headhref="dir_000011_000000.html"];
+  dir_06067df1f9101ead14b367185ddcf158->dir_d44c64559bbebec7f509842c48db8b23 [headlabel="3", labeldistance=1.5 headhref="dir_000012_000000.html"];
+}

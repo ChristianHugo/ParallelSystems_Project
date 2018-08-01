@@ -1,0 +1,14 @@
+digraph "include/parallelization/std" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_2b7fc3a44c6952827eadf4b39d728c52 {
+    graph [ bgcolor="#ddddee", pencolor="black", label="parallelization" fontname="Helvetica", fontsize="10", URL="dir_2b7fc3a44c6952827eadf4b39d728c52.html"]
+  dir_55c0387155edf7c8f7963338265f3d98 [shape=box, label="std", style="filled", fillcolor="#eeeeff", pencolor="black", URL="dir_55c0387155edf7c8f7963338265f3d98.html"];
+  }
+  dir_3bbe934f0d43482ce7a51023723cb714 [shape=box label="strategy" URL="dir_3bbe934f0d43482ce7a51023723cb714.html"];
+  dir_2ff494ddda6bb3129c4b2b37426f3b00 [shape=box label="processing" URL="dir_2ff494ddda6bb3129c4b2b37426f3b00.html"];
+  dir_2ff494ddda6bb3129c4b2b37426f3b00->dir_3bbe934f0d43482ce7a51023723cb714 [headlabel="1", labeldistance=1.5 headhref="dir_000008_000007.html"];
+  dir_55c0387155edf7c8f7963338265f3d98->dir_3bbe934f0d43482ce7a51023723cb714 [headlabel="1", labeldistance=1.5 headhref="dir_000006_000007.html"];
+  dir_55c0387155edf7c8f7963338265f3d98->dir_2ff494ddda6bb3129c4b2b37426f3b00 [headlabel="1", labeldistance=1.5 headhref="dir_000006_000008.html"];
+}
